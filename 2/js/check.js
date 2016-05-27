@@ -19,8 +19,8 @@ var getMessage = function(a, b) {
   }
   if (Array.isArray(a) && Array.isArray(b)) {
     var square = 0;
-    for (var i = 0; i < a.length && i < b.length; i++) {
-      square += a[i] * b[i];
+    for(var i = 0; i < a.length; i++) {
+      square += (a[i] * b[i]);
     }
     return('Общая площадь артефактов сжатия:' + ' ' + square + ' ' + 'пикселей');
   }
