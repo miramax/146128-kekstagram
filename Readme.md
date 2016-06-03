@@ -2,7 +2,7 @@
 
 * Студент: [Егор Людкевич](https://up.htmlacademy.ru/javascript/5/user/146128).
 * Наставник: [Андрей Градусов] (https://htmlacademy.ru/profile/id182375).
-
+``` example.call();
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
